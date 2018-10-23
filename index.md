@@ -16,5 +16,5 @@ The OMail has Ads in it and can at most add two accounts while the OMail Pro dos
 
 You can download them from the Google Play Store
 
-[![OMail](en_badge_web_generic.png)](https://play.google.com/store/apps/details?id=com.m00nlight.omail) [![OMail Pro](en_badge_web_generic.png)](https://play.google.com/store/apps/details?id=com.m00nlight.omail_pro)
+[![OMail](icon-google-play-small.png)](https://play.google.com/store/apps/details?id=com.m00nlight.omail) [![OMail Pro](icon-google-play-small.png)](https://play.google.com/store/apps/details?id=com.m00nlight.omail_pro)
 
