@@ -10,4 +10,7 @@ OMail & OMail Pro are IMAP/SMTP email client on Android which have the following
 
 You could watch the initial release video at :
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=zWoh1Dqq6-Y" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<div>
+  <iframe width="560" height="315" src="https://www.youtube.com/watch?v=zWoh1Dqq6-Y" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
+  </iframe>
+</div>
