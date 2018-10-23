@@ -8,3 +8,6 @@ OMail & OMail Pro are IMAP/SMTP email client on Android which have the following
 - Batch operation on logical emails within the same group
 
 
+You could watch the initial release video at :
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=zWoh1Dqq6-Y" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
