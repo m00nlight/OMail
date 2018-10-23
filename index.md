@@ -10,6 +10,9 @@ OMail & OMail Pro are IMAP/SMTP email client on Android which have the following
 
 You could watch the initial release video at :
 
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zWoh1Dqq6-Y" frameborder="0" allowfullscreen></iframe>
+
+The OMail has Ads in it and can at most add two accounts while the OMail Pro dose not have ads and also has no limit of email account. 
+
+You can download them from the Google Play Store
 
