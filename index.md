@@ -21,3 +21,41 @@ You can download them from the Google Play Store
 
 [![OMail](Omail_google.png)](https://play.google.com/store/apps/details?id=com.m00nlight.omail) [![OMail Pro](Omail_Pro_google.png)](https://play.google.com/store/apps/details?id=com.m00nlight.omail_pro)
 
+
+## FAQ
+
+1. Why can't I add email account?
+
+        Make sure you have wifi or mobile network connection. 
+        Make sure you enable IMAP/SMTP on the email server side and use correct smtp/imap
+        address and port. It may also take some time for the change to take effect after
+        you change the setting. So if you enable the SMTP/IMAP, but still can not add account,
+        so wait for a while and try again may work.
+
+        If you use account like Gmail, AOL mail, Yahoo Mail, you either need to turn on 'allow less
+        secure app\' in the account setting as following:
+        https://support.google.com/accounts/answer/6010255?hl=en
+
+        Or you need to enable 2 step verification and then create an app password to use as the
+        password for your mail application. And select custom as the app type. It will then
+        generate a 16 characters password which you can use as the password field for your account.
+
+        For details, you can find in the following link.
+        https://support.google.com/accounts/answer/185833?hl=en
+        
+2. Why does it warn me about too large email account?
+
+        Means that your email account contains more than million of messages. Some email
+        provider offer some kind of setting to limit the returned message for IMAP either by
+        number of by a certain number of recent days(for example, gmail allow return 1000, 2000,
+        5000, 10000 and qq.mail allow to set return the recent 30 days). Use this properly can
+        reduce the time to do all operation on the mail account dramatically and also reduce
+        resource usage.
+        \n\n
+
+        For example, you can set this for Gmail following the instruction below:
+        https://www.lifewire.com/how-to-make-gmail-imap-faster-with-less-email-traffic-1171942
+        \n\n
+
+        If you email account generated more than 10 thousands of email per day, use this app at
+        your own risk, it may take very long time to do all operations in this case.
