@@ -22,7 +22,7 @@ You can download them from the Google Play Store
 [![OMail](Omail_google.png)](https://play.google.com/store/apps/details?id=com.m00nlight.omail) [![OMail Pro](Omail_Pro_google.png)](https://play.google.com/store/apps/details?id=com.m00nlight.omail_pro)
 
 
-## FAQ
+### FAQ
 
 1. Why can't I add email account?
 
@@ -59,3 +59,25 @@ You can download them from the Google Play Store
 
         If you email account generated more than 10 thousands of email per day, use this app at
         your own risk, it may take very long time to do all operations in this case.
+        
+ 3. Why does the sync failed to sync some message?
+ 
+        Since OMail is an android application, to reduce the resource usage(memory, disk etc),
+        when syncing, it does not do a full sync like other email client on the desktop, instead
+        it will try to sync from last syncing point. So it means it you do some change to a email
+        some days ago(like mark one old message as flagged), it maybe will not be synced back
+        by the normal sync.
+        
+        But OMail offer the possibility to do a customer sync by choosing two days, and it will
+        sync all message between that two days to your phone.
+
+4. Why does some email display different in browser and OMail?
+
+        To avoid use too much storage of emails on the device, OMail will try to store
+        plain text version of the email, unless it can judge that the email is a html mail.
+        But for some email, it contains both plain text version and html version but do not
+        set the plain text version correctly.That\'s why you may notice some difference for
+        some email when you view them in OMail and your browser. But since most of these mails
+        are promotion related emails, so OMail do not put much effect to resolve this problem.
+
+
