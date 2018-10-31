@@ -33,7 +33,7 @@ You can download them from the Google Play Store
         so wait for a while and try again may work.
 
         If you use account like Gmail, AOL mail, Yahoo Mail, you either need to turn on 'allow less
-        secure app\' in the account setting as following:
+        secure app' in the account setting as following:
         https://support.google.com/accounts/answer/6010255?hl=en
 
         Or you need to enable 2 step verification and then create an app password to use as the
@@ -51,11 +51,9 @@ You can download them from the Google Play Store
         5000, 10000 and qq.mail allow to set return the recent 30 days). Use this properly can
         reduce the time to do all operation on the mail account dramatically and also reduce
         resource usage.
-        \n\n
-
+        
         For example, you can set this for Gmail following the instruction below:
         https://www.lifewire.com/how-to-make-gmail-imap-faster-with-less-email-traffic-1171942
-        \n\n
 
         If you email account generated more than 10 thousands of email per day, use this app at
         your own risk, it may take very long time to do all operations in this case.
@@ -76,7 +74,7 @@ You can download them from the Google Play Store
         To avoid use too much storage of emails on the device, OMail will try to store
         plain text version of the email, unless it can judge that the email is a html mail.
         But for some email, it contains both plain text version and html version but do not
-        set the plain text version correctly.That\'s why you may notice some difference for
+        set the plain text version correctly.That's why you may notice some difference for
         some email when you view them in OMail and your browser. But since most of these mails
         are promotion related emails, so OMail do not put much effect to resolve this problem.
 
