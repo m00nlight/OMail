@@ -17,6 +17,8 @@ You could watch the initial release video at :
 
 **The OMail has Ads in it and can at most add two accounts while the OMail Pro does not have ads and also has no limit for the number of email accounts to add.**
 
+**OMail's ads only appear when the app start or sometime when the app go from background to foreground. When you enter the app, there is no ads anymore(This is for version 1.0.3 and above).**
+
 You can download them from the Google Play Store
 
 [![OMail](Omail_google.png)](https://play.google.com/store/apps/details?id=com.m00nlight.omail) [![OMail Pro](Omail_Pro_google.png)](https://play.google.com/store/apps/details?id=com.m00nlight.omail_pro)
